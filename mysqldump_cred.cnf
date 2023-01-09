@@ -1,0 +1,4 @@
+[mysqldump]
+user=root
+password=yourpassword
+host=localhost
